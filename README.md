@@ -37,6 +37,5 @@ This project is part of the IBM Data Science Capstone, aimed at analyzing and pr
 ## 📌 How to Run
 
 1. Clone the repo:
-   ```bash
-[   git clone https://github.com/<your-username>/ibm_final_project.git
-   cd ibm_final_project](https://github.com/hongyaw/ibm_spacex_analytic.git)
+   ```bash https://github.com/hongyaw/ibm_spacex_analytic.git
+
